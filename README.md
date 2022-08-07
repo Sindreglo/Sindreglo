@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sindreglo
+- 👋 Hi, I’m Sindre Glomnes
 - 👀 I’m interested in full-stack development
 - 🌱 I’m currently learning mobile development, C++, security in software and cryptography.
 - 📫 How to reach me: sindre.glomnes@gmail.com +4748420178
